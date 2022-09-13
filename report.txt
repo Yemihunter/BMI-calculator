@@ -1,0 +1,4 @@
+Great. Using a class for your JS file makes it very neet.
+Unfortunately you're not catching error cases. E.g if someone passed a string value rather than integer values.
+
+Try as much as you can to check for conditons like this.
